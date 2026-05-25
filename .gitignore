@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*$py.class
+
+# C extensions
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE / Editor config
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Vector databases & local storage
+.chromadb/
+chromadb/
+chroma/
+*.db
+*.sqlite
+*.sqlite3
+
+# Packaging & builds
+build/
+dist/
+*.egg-info/
+
+# Logs and debug
+*.log
